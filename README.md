@@ -6,13 +6,22 @@ This was built as a personal project to explore systems thinking and simulation 
 
 ## Download
 - window build pygame : (link Here)
-
 ## Features
 - Dynamic food growth that updates every tick
 - Time-based decay system
 - Seasonal changes that affect growth rates
 - Visual color shifts to reinforce seasonal feel
 - HUD displaying current tick, season, and total food
+
+## How to Run
+1) Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+2) Run the Simulation
+```bash
+python main_pygame.py
+```
 
 ## what I built/ skills demonstrated
 - Python scripting (basic syntax, logic, and structure)
