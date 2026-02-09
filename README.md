@@ -31,7 +31,7 @@ This was built as a personal project to explore systems thinking and simulation 
 
 - 
 
-##If I Continued This Project, I Would:
+## If I Continued This Project, I Would:
 - Add a fauna or agent-based tile system
 - Rework decay to be less directly time-dependent
 - Introduce stronger visual variation for a more engaging digital terrarium display
