@@ -5,7 +5,8 @@ It includes a visual simulation, food growth and decay systems, seasonal changes
 This was built as a personal project to explore systems thinking and simulation design. While the Raspberry Pi was ultimately used for a different project, this served as a beneficial introduction to the Python language and basic simulation architecture.
 
 ## Download
-- window build pygame : (link Here)
+- window pygame : [(link Here)](https://github.com/klimtafwol/Digital-Terrarium/tree/main/Digital-Terrarium_v1.0)
+
 ## Features
 - Dynamic food growth that updates every tick
 - Time-based decay system
@@ -37,8 +38,10 @@ python main_pygame.py
 - (Designed with Raspberry-Pi in mind)
 
 - ## Screenshots
-
-- 
+![Winter Season](media/winter_digital_terrarium.png)
+![Spring Season](media/spring_digital_terrarium.png)
+![late Summer Season](media/summer_digital_terrarium.png)
+  
 
 ## If I Continued This Project, I Would:
 - Add a fauna or agent-based tile system
